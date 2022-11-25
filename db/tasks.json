@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "name": "tarea 1",
+      "description": "description 1",
+      "completed": false,
+      "id": 1
+    },
+    {
+      "name": "tarea 2",
+      "description": "description 2",
+      "completed": false,
+      "id": 2
+    },
+    {
+      "name": "tarea 3",
+      "description": "description 3",
+      "completed": true,
+      "id": 3
+    },
+    {
+      "name": "tarea 4",
+      "description": "description 4",
+      "completed": false,
+      "id": 4
+    }
+  ]
+}
